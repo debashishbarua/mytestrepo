@@ -1,0 +1,2 @@
+#The git Ignore File
+.log/*.txt
