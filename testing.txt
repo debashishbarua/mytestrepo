@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 Line added by main branch
+=======
+testing file
+>>>>>>> testing
